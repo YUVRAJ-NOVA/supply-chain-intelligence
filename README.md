@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### **[⬇️ Download Power BI Report (.pbix)]([./supply_chain_intelligence.pbix](https://drive.google.com/file/d/1JlKMy8ExZeuN8S3-u-hX1MrB66PuxAY4/view?usp=sharing))**
+### **[⬇️ Download Power BI Report (.pbix)]([https://drive.google.com/file/d/1JlKMy8ExZeuN8S3-u-hX1MrB66PuxAY4/view?usp=sharing](https://drive.google.com/file/d/1JlKMy8ExZeuN8S3-u-hX1MrB66PuxAY4/view?usp=sharing))**
 *Open in Power BI Desktop — all 6 pages are fully interactive and cross-filterable*
 
 </div>
